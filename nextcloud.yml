@@ -60,7 +60,7 @@ spec:
               name: mariadbuser-pass
               key: password1
         - name: MYSQL_USER
-          value: chirag
+          value: gyanesh
         - name: MySQL_DATABASE
           value: mydb
         ports:
